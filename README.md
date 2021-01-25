@@ -7,6 +7,8 @@ My solution to Rosalind exercises
 |Rabbits and Recurrence Relations|Wabbits.py|http://rosalind.info/problems/fib/|
 |Mortal Fibonacci Rabbits|fiborabbits.py |http://rosalind.info/problems/fibd/ |
 
+read_files.py is used by Wabbits.py and fiborabbits.py to prepare text files from Rossalind for further use.
+
 
 
 
